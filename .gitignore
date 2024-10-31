@@ -1,1 +1,4 @@
 *.nrrd
+*pyc
+assets/
+pytorch_ssim/
